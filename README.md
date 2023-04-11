@@ -50,23 +50,23 @@ Sorry, but most of the things I write are still in PT-BR.
 ### Connect with me.
 
 <a href="/">
-  <img align="center" alt="Bianca's Website" width="22px" src="aa" />
+  <img align="center" alt="Bianca's Website" width="25px" src="assets/images/website.png" />
 </a>
 
-<a href="/">
-  <img align="center" alt="Bianca's Email" width="22px" src="aa" />
+<a href="mailto:bfranco1918@gmail.com">
+  <img align="center" alt="Bianca's Email" width="25px" src="assets/images/email.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/bianca-vieira-franco/">
-  <img align="center" alt="Bianca's LinkedIn" width="22px" src="aa" />
+  <img align="center" alt="Bianca's LinkedIn" width="25px" src="assets/images/linkedin.png" />
 </a>
 
 <a href="/">
-  <img align="center" alt="Bianca's CV Resume" width="22px" src="aa" />
+  <img align="center" alt="Bianca's CV Resume" width="25px" src="assets/images/cv.png" />
 </a>
 
 <a href="/">
-  <img align="center" alt="Bianca's Medium" width="22px" src="aa" />
+  <img align="center" alt="Bianca's Medium" width="25px" src="assets/images/medium.png" />
 </a>
 
 ***
