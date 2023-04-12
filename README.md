@@ -93,7 +93,7 @@ Sorry, but most of the things I write are still in PT-BR language.
 
 If you like what I do, maybe consider buying me a coffee (or a beer) or help me with my english course costs.
 
-<a href="/">
+<a href="https://www.buymeacoffee.com/biancfranco">
   <img align="center" alt="Buy me a Coffee" width="30px" src="assets/images/coffee.png" />
 </a>
 
